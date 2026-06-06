@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Diagnostics;
 using System.Threading;
 using System.Threading.Tasks;
@@ -11,21 +10,16 @@ namespace BruteForcePasswordReset.Core
         private readonly BruteForceGenerator _generator = new BruteForceGenerator();
         private readonly HashValidator _validator = new HashValidator();
 
-        public BruteForceResult Run(string targetHash, int threadCount = 4)
+        public BruteForceResult Run(string targetHash, int threadCount, CancellationToken token, Action<long> progress)
         {
             var sw = Stopwatch.StartNew();
             long attempts = 0;
-            string? foundPassword = null;
-
-            var cts = new CancellationTokenSource();
-            var token = cts.Token;
+            string foundPassword = null;
 
             var tasks = new List<Task>();
 
             for (int t = 0; t < threadCount; t++)
             {
-                int threadIndex = t;
-
                 tasks.Add(Task.Run(() =>
                 {
                     for (int length = 1; length <= AppConfig.MaxBruteForceLength; length++)
@@ -35,12 +29,13 @@ namespace BruteForcePasswordReset.Core
                             if (token.IsCancellationRequested)
                                 return;
 
-                            Interlocked.Increment(ref attempts);
+                            long a = Interlocked.Increment(ref attempts);
+                            if (a % 100 == 0)
+                                progress(a);
 
                             if (_validator.IsMatch(candidate, targetHash))
                             {
                                 foundPassword = candidate;
-                                cts.Cancel();
                                 return;
                             }
                         }
@@ -59,5 +54,6 @@ namespace BruteForcePasswordReset.Core
                 Elapsed = sw.Elapsed
             };
         }
+
     }
 }

@@ -8,10 +8,10 @@ namespace BruteForcePasswordReset.Core
     {
         private readonly Random _rnd = new Random();
 
-        // Generate random password with length randomly chosen from [4,6) => 4 or 5
+        // Generate random password with FAST length (always 3 chars)
         public string GenerateRandomPassword()
         {
-            int length = _rnd.Next(4, 6); // returns 4 or 5
+            int length = 3; // SUPER FAST
             var sb = new StringBuilder(length);
             var charset = AppConfig.Charset;
             for (int i = 0; i < length; i++)

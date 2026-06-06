@@ -7,8 +7,8 @@ namespace BruteForcePasswordReset.Core
         public const string Salt = "S@ltForAssignment2026";
 
         public const string Charset =
-            "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+            "abcdefghijklmnopqrstuvwxyz0123456789";
 
-        public const int MaxBruteForceLength = 6;
+        public const int MaxBruteForceLength = 4;
     }
 }

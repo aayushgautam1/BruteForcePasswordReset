@@ -1,4 +1,4 @@
-﻿using System;
+﻿using System.Threading;
 
 namespace BruteForcePasswordReset.Core
 {
@@ -7,6 +7,10 @@ namespace BruteForcePasswordReset.Core
         private readonly PasswordManager _pm = new PasswordManager();
         private readonly SingleThreadBruteForcer _single = new SingleThreadBruteForcer();
         private readonly MultiThreadBruteForcer _multi = new MultiThreadBruteForcer();
+        public long GetTotalCombinations()
+        {
+            return new BruteForceGenerator().CountTotalCombinations();
+        }
 
         public (string Password, string Hash) GeneratePasswordAndHash()
         {
@@ -15,14 +19,14 @@ namespace BruteForcePasswordReset.Core
             return (pwd, hash);
         }
 
-        public BruteForceResult RunSingleThread(string targetHash)
+        public BruteForceResult RunSingleThread(string hash, CancellationToken token, Action<long> progress)
         {
-            return _single.Run(targetHash);
+            return _single.Run(hash, token, progress);
         }
 
-        public BruteForceResult RunMultiThread(string targetHash, int threads = 4)
+        public BruteForceResult RunMultiThread(string hash, int threads, CancellationToken token, Action<long> progress)
         {
-            return _multi.Run(targetHash, threads);
+            return _multi.Run(hash, threads, token, progress);
         }
     }
 }

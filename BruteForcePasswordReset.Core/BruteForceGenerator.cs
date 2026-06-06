@@ -6,6 +6,23 @@ namespace BruteForcePasswordReset.Core
 {
     public class BruteForceGenerator
     {
+        public long CountTotalCombinations()
+        {
+            long total = 0;
+            int k = AppConfig.Charset.Length;
+
+            for (int length = 1; length <= AppConfig.MaxBruteForceLength; length++)
+            {
+                long count = 1;
+                for (int i = 0; i < length; i++)
+                    count *= k;
+
+                total += count;
+            }
+
+            return total;
+        }
+
         private readonly string _charset = AppConfig.Charset;
 
         // Generate all combinations of given length. length must be >= 1.

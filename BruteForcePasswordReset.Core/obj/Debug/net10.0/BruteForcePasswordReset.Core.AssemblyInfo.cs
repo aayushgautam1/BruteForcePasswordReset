@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BruteForcePasswordReset.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8c9d9ce22e00adb497662f411dde5c99a24c2d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeb8259a75ff4208a0e7b9e4488bbbe17fdb288f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BruteForcePasswordReset.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BruteForcePasswordReset.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
