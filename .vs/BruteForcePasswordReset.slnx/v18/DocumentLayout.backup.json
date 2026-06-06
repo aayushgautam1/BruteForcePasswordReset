@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\hashvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\hashvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{010D1BB6-527D-AC67-9DF3-6DB502063BAB}|BruteForcePasswordReset.UI\\BruteForcePasswordReset.UI.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{010D1BB6-527D-AC67-9DF3-6DB502063BAB}|BruteForcePasswordReset.UI\\BruteForcePasswordReset.UI.csproj|solutionrelative:bruteforcepasswordreset.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{010D1BB6-527D-AC67-9DF3-6DB502063BAB}|BruteForcePasswordReset.UI\\BruteForcePasswordReset.UI.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{010D1BB6-527D-AC67-9DF3-6DB502063BAB}|BruteForcePasswordReset.UI\\BruteForcePasswordReset.UI.csproj|solutionrelative:bruteforcepasswordreset.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010D1BB6-527D-AC67-9DF3-6DB502063BAB}|BruteForcePasswordReset.UI\\BruteForcePasswordReset.UI.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010D1BB6-527D-AC67-9DF3-6DB502063BAB}|BruteForcePasswordReset.UI\\BruteForcePasswordReset.UI.csproj|solutionrelative:bruteforcepasswordreset.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\performancelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\performancelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\attackcoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\attackcoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\multithreadbruteforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\multithreadbruteforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\singlethreadbruteforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\singlethreadbruteforcer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\bruteforceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\bruteforceresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\bruteforcepasswordreset.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\bruteforcepasswordreset.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\bruteforcegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\bruteforcegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|c:\\c#workspace\\uniproject\\bruteforcepasswordreset\\bruteforcepasswordreset.core\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32915969-9F4D-EB4F-2F6A-1113CBA3C16E}|BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj|solutionrelative:bruteforcepasswordreset.core\\passwordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +58,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.UI\\Program.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.UI\\Program.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.UI\\Program.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:40:58.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerformanceLogger.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\PerformanceLogger.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\PerformanceLogger.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\PerformanceLogger.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\PerformanceLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:38:21.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttackCoordinator.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\AttackCoordinator.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\AttackCoordinator.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\AttackCoordinator.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\AttackCoordinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:37:22.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiThreadBruteForcer.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\MultiThreadBruteForcer.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\MultiThreadBruteForcer.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\MultiThreadBruteForcer.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\MultiThreadBruteForcer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:36:15.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.UI\\Form1.cs",
-              "RelativeDocumentMoniker": "BruteForcePasswordReset.UI\\Form1.cs",
-              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.UI\\Form1.cs [Design]",
-              "RelativeToolTip": "BruteForcePasswordReset.UI\\Form1.cs [Design]",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.UI\\MainForm.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "BruteForcePasswordReset.UI\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T11:45:32.718Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashValidator.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\HashValidator.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\HashValidator.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\HashValidator.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\HashValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:24:57.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingleThreadBruteForcer.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\SingleThreadBruteForcer.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\SingleThreadBruteForcer.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\SingleThreadBruteForcer.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\SingleThreadBruteForcer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:34:25.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BruteForceResult.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\BruteForceResult.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\BruteForceResult.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\BruteForceResult.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\BruteForceResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:30:54.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BruteForcePasswordReset.Core",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\BruteForcePasswordReset.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T05:21:16.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -42,15 +186,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\Class1.cs",
-              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\Class1.cs",
-              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\Class1.cs",
-              "RelativeToolTip": "BruteForcePasswordReset.Core\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "BruteForceGenerator.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\BruteForceGenerator.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\BruteForceGenerator.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\BruteForceGenerator.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\BruteForceGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T11:42:37.467Z",
+              "WhenOpened": "2026-06-06T05:26:55.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PasswordManager.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\PasswordManager.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\PasswordManager.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\PasswordManager.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\PasswordManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:21:45.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\AppConfig.cs",
+              "RelativeDocumentMoniker": "BruteForcePasswordReset.Core\\AppConfig.cs",
+              "ToolTip": "C:\\c#workspace\\uniproject\\BruteForcePasswordReset\\BruteForcePasswordReset.Core\\AppConfig.cs",
+              "RelativeToolTip": "BruteForcePasswordReset.Core\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T05:13:46.542Z",
               "EditorCaption": ""
             }
           ]
